@@ -23,7 +23,7 @@ end
 def id_generator
   # return a hash with a key :id assigned to positive integer
   id_gen = {
-    identification: [3,4,5]
+    :id => 12445435
   }
 end
 
