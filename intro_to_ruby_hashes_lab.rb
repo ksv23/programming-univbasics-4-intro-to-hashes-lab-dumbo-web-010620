@@ -23,7 +23,7 @@ end
 def id_generator
   # return a hash with a key :id assigned to positive integer
   id_generator ={
-    :id_gen.object_id
+    :i_am_a_symbol.object_id
   }
 end
 
